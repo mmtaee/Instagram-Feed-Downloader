@@ -4,6 +4,4 @@ A python3.7 program to download feeds/posts images and videos from following or 
 
 requirements : 
         InstagramAPI==1.0.2
-        Pillow==7.0.0
-        requests==2.11.1
 
